@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilyecho
 - 👀 I’m interested in music 🎹
-- 🌱 I’m currently learning music and coding 🎧
+- 🌱 I’m currently learning music for video games 🎧
 - 💞️ I’m looking to collaborate on games 👾
 
 <!---
